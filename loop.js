@@ -9,5 +9,5 @@ expression
 let b =1
 while(b <=5){
     console.log("itarated number is " + b) 
-    b++
+    b++;
 }
