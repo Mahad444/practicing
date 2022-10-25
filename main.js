@@ -22,3 +22,11 @@ switch (color){
     default :
     console.log("Not Valid Color")
 }
+// FOR LOOPS 
+// for (initializer;condition;finalexpression){
+    // code to run
+// }
+
+for (let a = 1; a<=10; a++){
+  console.log("the number is" + a)
+}
